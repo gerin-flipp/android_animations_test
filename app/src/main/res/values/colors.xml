@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="default0">#FFFFFF</color>
+    <color name="default1">#F2F3F5</color>
+    <color name="default2">#C1CAD6</color>
+    <color name="default3">#8493A6</color>
+    <color name="default4">#5D6F85</color>
+    <color name="default5">#1F2833</color>
+
+    <color name="brand1">#F5F9FE</color>
+    <color name="brand2">#B0E6F5</color>
+    <color name="brand3">#43C4F4</color>
+    <color name="brand4">#046295</color>
+    <color name="brand5">#003863</color>
+
+    <color name="primary1">#EBF4FF</color>
+    <color name="primary2">#7BB4FA</color>
+    <color name="primary3">#1072EA</color>
+    <color name="primary4">#03428E</color>
+    <color name="primary5">#00224D</color>
+
+    <color name="new1">#EBF4FF</color>
+    <color name="new2">#7BB4FA</color>
+    <color name="new3">#1072EA</color>
+    <color name="new4">#03428E</color>
+    <color name="new5">#00224D</color>
+
+    <color name="selected1">#EBF4FF</color>
+    <color name="selected2">#7BB4FA</color>
+    <color name="selected3">#1072EA</color>
+    <color name="selected4">#03428E</color>
+    <color name="selected5">#00224D</color>
+
+    <color name="error1">#FFE6E6</color>
+    <color name="error2">#FF5967</color>
+    <color name="error3">#E42545</color>
+    <color name="error4">#990026</color>
+
+    <color name="sale1">#FFE6E6</color>
+    <color name="sale2">#FF5967</color>
+    <color name="sale3">#E42545</color>
+    <color name="sale4">#990026</color>
+
+    <color name="urgent1">#FFE6E6</color>
+    <color name="urgent2">#FF5967</color>
+    <color name="urgent3">#E42545</color>
+    <color name="urgent4">#990026</color>
+
+    <color name="clipping1">#FFF7CC</color>
+    <color name="clipping2">#FFD454</color>
+    <color name="clipping3">#F7A700</color>
+    <color name="clipping4">#8A4700</color>
+
+    <color name="warning1">#FFF7CC</color>
+    <color name="warning2">#FFD454</color>
+    <color name="warning3">#F7A700</color>
+    <color name="warning4">#8A4700</color>
+
+    <color name="pending1">#FFF7CC</color>
+    <color name="pending2">#FFD454</color>
+    <color name="pending3">#F7A700</color>
+    <color name="pending4">#8A4700</color>
+
+    <color name="success1">#DFF7E3</color>
+    <color name="success2">#62C493</color>
+    <color name="success3">#07875C</color>
+    <color name="success4">#006252</color>
+
+    <color name="complete1">#DFF7E3</color>
+    <color name="complete2">#62C493</color>
+    <color name="complete3">#07875C</color>
+    <color name="complete4">#006252</color>
+
+    <color name="appBackground">#F2F3F5</color>
+    <color name="launchBackground">#43C4F4</color>
+    <color name="shadow">#1F2833</color>
+    <color name="overlay">#661F2833</color>
+</resources>

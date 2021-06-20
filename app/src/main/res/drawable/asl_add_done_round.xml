@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/done_round"
+        android:drawable="@drawable/ic_done_round"
+        android:state_checked="true" />
+
+    <item
+        android:id="@+id/add_round"
+        android:drawable="@drawable/ic_add_round" />
+
+    <transition
+        android:drawable="@drawable/avd_anim_add_to_done_round"
+        android:fromId="@id/add_round"
+        android:toId="@id/done_round"/>
+
+    <transition
+        android:drawable="@drawable/avd_anim_done_to_add_round"
+        android:fromId="@id/done_round"
+        android:toId="@id/add_round"/>
+
+</animated-selector>
